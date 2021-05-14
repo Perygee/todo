@@ -40,12 +40,12 @@
     "@octokit/rest": "^16.36.0",
     "hbs": "^4.1.0",
     "parse-diff": "^0.6.0",
-    "probot": "^9.9.0"
+    "probot": "^11.3.0"
   },
   "devDependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.1.0",
-    "jest": "^24.9.0",
+    "jest": "^26.6.3",
     "nodemon": "2.0.2",
     "smee-client": "^1.1.0",
     "standard": "^14.3.1"
